@@ -1,0 +1,20 @@
+# LLM
+google-genai
+
+# Backend API
+fastapi
+uvicorn
+pydantic
+
+# Environment
+python-dotenv
+
+# RAG
+sentence-transformers
+chromadb
+
+# Document Processing
+pypdf
+
+# Numerical Processing
+numpy
